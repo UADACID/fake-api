@@ -1,0 +1,108 @@
+{
+    "articles": [
+        {
+            "title": "Belum 2 Tahun Berumah Tangga, Raya Kitty Gugat Cerai Suami",
+            "description": "Pemain sinetron Anak Langit, Raya Kitty, menggugat cerai sang suami, Abid Zia. Ia memasukkan gugatan di Pengadilan Agama Soreang, Bandung, Jawa Barat pada 17 Februari lalu",
+            "category": "entertainment",
+            "tags": [
+                "hiburan",
+                "selebriti"
+            ],
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1585712414/uh6bfdgtlbpu7nw8vqqc.jpg"
+        },
+        {
+            "title": "Aktor Star Wars, Andrew Jack, Meninggal Dunia karena Corona",
+            "description": "Pemain sinetron Anak Langit, Raya Kitty, menggugat cerai sang suami, Abid Zia. Ia memasukkan gugatan di Pengadilan Agama Soreang, Bandung, Jawa Barat pada 17 Februari lalu",
+            "category": "entertainment",
+            "tags": [
+                "hiburan",
+                "selebriti"
+            ],
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1585712175/g9bqd4hgfplfwh3edk69.webp"
+        },
+        {
+            "title": "Refund Tiket Head in the Clouds Diperpanjang sampai 30 April 2020",
+            "description": "Konser Head in the Clouds yang seharusnya digelar 7 Maret 2020 di JIExpo Kemayoran, Jakarta Pusat, ditunda",
+            "category": "entertainment",
+            "tags": [
+                "hiburan",
+                "selebriti"
+            ],
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1585703748/n28at8w6vne0d3pirlao.jpg"
+        },
+        {
+            "title": "Berkegiatan di Rumah, Cinta Laura Jadi Lebih Sering Memasak",
+            "description": "Untuk menekan angka penyebaran virus Corona, salah satu cara yang bisa dilakukan adalah dengan meminimalisir kegiatan di luar rumah. Seperti yang dilakukan oleh aktris Cinta Laura Kiehl",
+            "category": "entertainment",
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1565672792/gl0vupnt3m9aybxggidj.jpg",
+            "tags": [
+                "hiburan",
+                "selebriti"
+            ]
+        },
+        {
+            "title": "Sering Diabaikan, Jangan Lupa Melumasi Rantai Motor, Ini Aturannnya",
+            "description": "Rantai merupakan komponen krusial yang ada pada sepeda motor, khususnya jenis motor bebek dan sport. Komponen ini berfungsi sebagai perantara tenaga dari mesin ke roda untuk menggerakkan motor",
+            "category": "otomotif",
+            "tags": [
+                "hiburan",
+                "motor"
+            ],
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1565577378/qvhkvtxif8ofeb4qnxd8.jpg"
+        },
+        {
+            "title": "Muncul Bercak Coklat pada Rem Cakram Mobil yang Lama Nganggur, Aman Kah?",
+            "description": "Bila mobil Anda sudah lama terparkir di garasi rumah karena mengganggur akibat WFH, jangan kaget bila di area pengereman mobil muncul bercak coklat seperti karat",
+            "category": "otomotif",
+            "tags": [
+                "sport",
+                "motor"
+            ],
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1560382976/wvnzfwoicdda1ubgxua6.jpg"
+        },
+        {
+            "title": "Sejarah dan Tokoh di Balik Lahirnya Merek Otomotif Dunia",
+            "description": "Meski sejarah industri otomotif memang tak setua industri lainnya di dunia. Namun, pengaruhnya pada perkembangan zaman khususnya di abad ke-20 sungguh menarik perhatian",
+            "category": "otomotif",
+            "tags": [
+                "sejarah",
+                "motor"
+            ],
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1585696400/wxq3iiizef9rsoxrj7t7.jpg"
+        },
+        {
+            "title": "PUPR Tambah Anggaran Rp 1,5 Triliun untuk Subsidi 175 Ribu Rumah, Tertarik?",
+            "description": "Kementerian PUPR mengalokasikan anggaran untuk stimulus fiskal subsidi perumahan sebesar Rp 1,5 triliun untuk 175 ribu rumah tangga Masyarakat Berpenghasilan Rendah (MBR) melalui proses Kredit Pemilikan Rumah (KPR)",
+            "category": "bisnis",
+            "tags": [
+                "virus",
+                "corona"
+            ],
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1574839718/jmvfqn7nxy7a0fxy6uy5.jpg"
+        },
+        {
+            "title": "Fakta Terbaru Gagal Bayar Jiwasraya: Mulai Cicil Bayar Polis hingga Jual Citos",
+            "description": "PT Asuransi Jiwasraya (Persero) saat ini sedang melakukan berbagai hal untuk memulihkan kondisi perusahaan usai mengalami gagal bayar pada Oktober 2018",
+            "category": "bisnis",
+            "tags": [
+                "jiwaseraya",
+                "utang"
+            ],
+            "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1576664990/lppsqkddfvw48lo1kqts.jpg"
+        }
+    ],
+    "banner": [
+        {
+            "cover": "https://assets-jpcust.jwpsrv.com/thumbnails/9w7ydrht-720.jpg"
+        },
+        {
+            "cover": "https://assets-jpcust.jwpsrv.com/thumbnails/3t2rduvv-720.jpg"
+        },
+        {
+            "cover": "https://assets-jpcust.jwpsrv.com/thumbnails/934hlja7-720.jpg"
+        },
+        {
+            "cover": "https://assets-jpcust.jwpsrv.com/thumbnails/oruj94fd-720.jpg"
+        }
+    ]
+  }
