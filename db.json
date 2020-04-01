@@ -5,8 +5,12 @@
             "description": "Pemain sinetron Anak Langit, Raya Kitty, menggugat cerai sang suami, Abid Zia. Ia memasukkan gugatan di Pengadilan Agama Soreang, Bandung, Jawa Barat pada 17 Februari lalu",
             "category": "entertainment",
             "tags": [
-                "hiburan",
-                "selebriti"
+                {
+                    "name": "hiburan"
+                },
+                {
+                    "name": "selebriti"
+                }
             ],
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1585712414/uh6bfdgtlbpu7nw8vqqc.jpg"
         },
@@ -15,8 +19,12 @@
             "description": "Pemain sinetron Anak Langit, Raya Kitty, menggugat cerai sang suami, Abid Zia. Ia memasukkan gugatan di Pengadilan Agama Soreang, Bandung, Jawa Barat pada 17 Februari lalu",
             "category": "entertainment",
             "tags": [
-                "hiburan",
-                "selebriti"
+                {
+                    "name": "hiburan"
+                },
+                {
+                    "name": "selebriti"
+                }
             ],
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1585712175/g9bqd4hgfplfwh3edk69.webp"
         },
@@ -25,8 +33,12 @@
             "description": "Konser Head in the Clouds yang seharusnya digelar 7 Maret 2020 di JIExpo Kemayoran, Jakarta Pusat, ditunda",
             "category": "entertainment",
             "tags": [
-                "hiburan",
-                "selebriti"
+                {
+                    "name": "hiburan"
+                },
+                {
+                    "name": "selebriti"
+                }
             ],
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1585703748/n28at8w6vne0d3pirlao.jpg"
         },
@@ -36,8 +48,12 @@
             "category": "entertainment",
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1565672792/gl0vupnt3m9aybxggidj.jpg",
             "tags": [
-                "hiburan",
-                "selebriti"
+                {
+                    "name": "hiburan"
+                },
+                {
+                    "name": "selebriti"
+                }
             ]
         },
         {
@@ -45,8 +61,12 @@
             "description": "Rantai merupakan komponen krusial yang ada pada sepeda motor, khususnya jenis motor bebek dan sport. Komponen ini berfungsi sebagai perantara tenaga dari mesin ke roda untuk menggerakkan motor",
             "category": "otomotif",
             "tags": [
-                "hiburan",
-                "motor"
+                {
+                    "name": "hiburan"
+                },
+                {
+                    "name": "motor"
+                }
             ],
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1565577378/qvhkvtxif8ofeb4qnxd8.jpg"
         },
@@ -55,8 +75,12 @@
             "description": "Bila mobil Anda sudah lama terparkir di garasi rumah karena mengganggur akibat WFH, jangan kaget bila di area pengereman mobil muncul bercak coklat seperti karat",
             "category": "otomotif",
             "tags": [
-                "sport",
-                "motor"
+                {
+                    "name": "sport"
+                },
+                {
+                    "name": "motor"
+                }
             ],
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1560382976/wvnzfwoicdda1ubgxua6.jpg"
         },
@@ -65,8 +89,12 @@
             "description": "Meski sejarah industri otomotif memang tak setua industri lainnya di dunia. Namun, pengaruhnya pada perkembangan zaman khususnya di abad ke-20 sungguh menarik perhatian",
             "category": "otomotif",
             "tags": [
-                "sejarah",
-                "motor"
+                {
+                    "name": "sejarah"
+                },
+                {
+                    "name": "motor"
+                }
             ],
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1585696400/wxq3iiizef9rsoxrj7t7.jpg"
         },
@@ -75,8 +103,12 @@
             "description": "Kementerian PUPR mengalokasikan anggaran untuk stimulus fiskal subsidi perumahan sebesar Rp 1,5 triliun untuk 175 ribu rumah tangga Masyarakat Berpenghasilan Rendah (MBR) melalui proses Kredit Pemilikan Rumah (KPR)",
             "category": "bisnis",
             "tags": [
-                "virus",
-                "corona"
+                {
+                    "name": "virus"
+                },
+                {
+                    "name": "corona"
+                }
             ],
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1574839718/jmvfqn7nxy7a0fxy6uy5.jpg"
         },
@@ -85,8 +117,12 @@
             "description": "PT Asuransi Jiwasraya (Persero) saat ini sedang melakukan berbagai hal untuk memulihkan kondisi perusahaan usai mengalami gagal bayar pada Oktober 2018",
             "category": "bisnis",
             "tags": [
-                "jiwaseraya",
-                "utang"
+                {
+                    "name": "jiwaseraya"
+                },
+                {
+                    "name": "hutang"
+                }
             ],
             "cover": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1576664990/lppsqkddfvw48lo1kqts.jpg"
         }
@@ -105,4 +141,4 @@
             "cover": "https://assets-jpcust.jwpsrv.com/thumbnails/oruj94fd-720.jpg"
         }
     ]
-  }
+}
